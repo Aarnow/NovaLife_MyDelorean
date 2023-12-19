@@ -1,5 +1,4 @@
-# Novalife Plugin MyMenu
-
+# Novalife Plugin MyDelorean
 Ce plugin Novalife MyDelorean offre la possibilité d'activé le voyage temporel ! (ou presque) 
 
 ## Table des Matières
